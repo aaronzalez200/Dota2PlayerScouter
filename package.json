@@ -1,6 +1,6 @@
 {
   "homepage": "http://aaronzalez200.github.io/Dota2PlayerScouter",
-  "name": "dota2website-design-scouter",
+  "name": "Dota2PlayerScouter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
